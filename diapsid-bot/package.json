@@ -1,0 +1,11 @@
+{
+  "name": "diapsid-bot",
+  "version": "1.0.0",
+  "description": "Diapsid Discord Bot",
+  "main": "bot.js",
+  "author": "S Murphy",
+  "dependencies": {
+    "discord.io": "github:Woor/discord.io#gateway_v6",
+    "winston": "^3.3.3"
+  }
+}
